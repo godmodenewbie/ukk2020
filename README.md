@@ -10,4 +10,4 @@ tutor phpmyadmin
 https://www.linuxbabe.com/debian/install-phpmyadmin-apache-lamp-debian-10-buster
 
 link wordpress
-https://id.wordpress.org/latest-id_ID.zip
+https://wordpress.org/latest.tar.gz
