@@ -9,7 +9,7 @@ echo "${bold}${red}inget pas muncul tampilan biru pilih "ok" baru enter"
 echo "${reset}LAGI NGINSTAL PAK"
 
 apt update 
-apt install gnupg sudo links wget curl
+apt install gnupg sudo links wget curl apache2 php
 wget https://dev.mysql.com/get/mysql-apt-config_0.8.13-1_all.deb
 dpkg -i mysql-apt-config_0.8.13-1_all.deb
 apt update
