@@ -1,0 +1,6 @@
+ketik sudo mysql -u root
+ketik CREATE DATABASE phpmyadmin (ganti namanya sesuka hati) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+ketik GRANT ALL ON phpmyadmin.* TO 'phpmyadmin'@'localhost' IDENTIFIED BY 'your_preferred_password(password dimari)';
+ketik FLUSH PRIVILEGES;
+trus ketik EXIT;
+LANJUT BACA SETTINGAN APACHE BUAT phpmyadmin
